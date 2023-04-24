@@ -1,4 +1,4 @@
-### Olá :vulcan_salute::skin-tone-5:
+### Olá :vulcan_salute:
 
 ## Sobre mim
 A tecnologia sempre foi uma das minhas principais paixões. Comecei ‘fuçando’ em um antigo computador que havia na casa dos meus pais, sempre aprendendo com o que aquela máquina e uma conexão com a internet podia me oferecer. Anos depois entrei na faculdade de Ciência da Computação para me aprofundar, e surgiu o primeiro estágio onde comecei a aprender e a trabalhar com o CRM Salesforce na Youse Seguros onde consegui evoluir profissionalmente.
@@ -32,13 +32,29 @@ Atualmente estou atuando como Coordenador de Inteligência e Processos, atuando 
 
 ### Skills
 
+<p align="left">
+<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/211362iF5BA8C87CD4C2D9F" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" width="40" height="40"/>
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/metabase_logo_icon_170959.png" width="40" height="40"/>
+<img src="https://leadsbridge.com/wp-content/themes/leadsbridge/img/integration-lg-logos/logo1026.png" width="40" height="40"/>
+<img src="https://freeter.io/embedding-web-apps/analytics/google-analytics.png" width="40" height="40"/>
+<img src="https://static-00.iconduck.com/assets.00/google-tag-manager-icon-256x256-qs3wbhwa.png" width="40" height="40"/>
+<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/z3ahdkytzwi1jxlpazje" width="40" height="40"/>
+<img src="https://www.m-files.com/wp-content/uploads/2021/01/Salesforce-Logo-256px.png" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="40" height="40"/>
+</p>
 
+### Aprendendo
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/>
-
-
-
-          
-
+<p align="left">
+<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/i6f25wkhuwvkcgg4jcux" width="40" height="40"/>
+<img src="https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/vscode-node-azure-pack/1.1.1/1667846329462/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40"/>
+<img src="https://pcr.cloud-mercato.com/static/img/logos/aws.png" width="40" height="40"/>
+</p>
 
 
